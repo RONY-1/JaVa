@@ -1,0 +1,7 @@
+public class CLASS00 {
+        public static void main(String[] args)  //main function
+        {
+
+            System.out.println("Hello world!");    // print function
+        }
+    }
