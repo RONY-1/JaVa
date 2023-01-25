@@ -19,3 +19,25 @@ public class Student {
 
     }
 }
+
+
+
+
+__________
+| OUTPUT |
+---------------------------------------------------
+    Student name: Md.Rony
+University: Daffodil International University
+Department: Computer science & Engineering
+Student Id: 221-15-4967
+Batch Code : 221
+Section: V
+Student identity: CLASS REPRESENTATIVE-CR
+Course : Object Oriented Programming
+Teacher: Nasima Islam Bithi
+Personal information About Rony
+Hometown : Tangail
+Email: rony15-4967@diu.edu.bd
+Mobile no: 01727371436
+Thank you
+----------------------------------------------------
