@@ -5,3 +5,12 @@ public class CLASS00 {
             System.out.println("Hello world!");    // print function
         }
     }
+    
+    
+    
+    
+    ____________
+    | OUTPUT  |
+    ------------
+    Hello World!
+    ------------
