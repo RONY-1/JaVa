@@ -19,3 +19,14 @@ public class METHOD {
     }
 }
 
+
+
+______________
+OUTPUT
+______________
+Hello, World
+15
+Hello, World
+25.0
+
+
