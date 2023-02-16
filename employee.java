@@ -21,3 +21,12 @@ public class employee {
 
     }
 }
+
+
+
+_________
+output
+_________
+id:4967name:Rony
+id:5919name:Asif
+_________________
